@@ -17,7 +17,7 @@
 
 ### Target Audience
 
-##### Users of all ages looking to have a great music experience individually or amongts friends and family!
+##### Users of all ages looking to have a great music experience individually or amongst friends and family!
 
 ### Technologies Used
 
