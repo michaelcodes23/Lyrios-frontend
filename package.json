@@ -2,7 +2,6 @@
   "name": "lyrios",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://api.musixmatch.com/ws/1.1/matcher.lyrics.get?format=json&callback=callback",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
