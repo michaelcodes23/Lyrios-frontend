@@ -16,7 +16,7 @@
     "googleapis": "^76.0.0",
     "method-override": "^3.0.0",
     "mongoose": "^5.12.13",
-    "node": "^16.4.0",
+    "node": "^16.13.1",
     "nodemon": "^2.0.7",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
